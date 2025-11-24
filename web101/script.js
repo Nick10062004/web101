@@ -1,6 +1,4 @@
-function showMessage() {
-  alert("Hello from JavaScript!");
-}
+
 const heading = document.querySelector("h1");
 
 function changeTitle() {
